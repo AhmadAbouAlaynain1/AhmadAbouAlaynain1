@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abou Alaynain</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 
-- 🔭 I’m currently working with **SE Factory**
-
 - 📫 How to reach me **ahmadaboualaynian2@gmail.com**
 
 - 📄 Resume [link](https://drive.google.com/file/d/1_LoPEjWdy-ZDN68ceakOsDgSFxH9OnuN/view?usp=sharing)
